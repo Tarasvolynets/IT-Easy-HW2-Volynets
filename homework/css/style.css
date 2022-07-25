@@ -75,12 +75,10 @@ section:nth-child(3) div:nth-child(2) div:nth-child(1):hover::before{
 
 .row.tm-section.tm-mb-30 {
     margin-bottom: 30px;
-
 }
 
 .tm-pricing-header {
     background: #269999;
-
 }
 
 .tm-pricing-table {
@@ -89,7 +87,6 @@ section:nth-child(3) div:nth-child(2) div:nth-child(1):hover::before{
 
 .tm-pricing-table:hover {
     box-shadow: 0 0 0 0.2rem #24d4d4;
-
 }
 
 .btn.btn-secondary {
@@ -135,7 +132,6 @@ section:nth-child(5)  div:nth-child(3) .tm-pricing-table:hover::before{
 
 .col-lg-12.tm-bg-color-secondary.tm-text-color-white.tm-font-thin.tm-form-footer {
     background: #269999;
-
 }
 
 section:nth-child(6) {
@@ -158,6 +154,7 @@ section:nth-child(6):before{
     top: 400px;
     right: 245px;
 }
+
 section:nth-child(6):after{
     cursor: pointer;
     position: absolute;
